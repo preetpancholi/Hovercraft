@@ -63,6 +63,8 @@ And a breadboard view is also a good idea. It gives the potential user a better 
 
 [pic3]: https://github.com/preetpancholi/Hovercraft/blob/master/img/H%20bridge.JPG "Look at schematic for better explanation"
 
+Schematic is given below:
+
 ![alt_text][pic4]
   
 [pic4]: https://github.com/preetpancholi/Hovercraft/blob/master/img/Capture.JPG "Schematic"
@@ -78,6 +80,8 @@ Then you have to make a panel from styrofoam for the back motor and flaps. There
 
 ![alt text][pic6]
 [pic6]:https://github.com/preetpancholi/Hovercraft/blob/master/img/IMG_6988.PNG
+
+Front Panel: 
 
 ![alt text][pic7]
 [pic7]: https://github.com/preetpancholi/Hovercraft/blob/master/img/IMG_6989.PNG

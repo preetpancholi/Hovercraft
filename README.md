@@ -116,5 +116,12 @@ Credits
 * Thanks to our instructor Trevor for helping us with the project and providing us with H-bridge!
 * YOUTUBE and INSTRUCTIBLES
 
+Useful links
+=======
+* Our video: https://www.youtube.com/watch?v=UgB1-hgc0ss&t=1s
+* Arduino IDE: https://www.arduino.cc/en/Main/Software
+* Fritzing (For schematics): http://fritzing.org/download/
+* DAD: https://www.google.ca/ :)
+
 
 

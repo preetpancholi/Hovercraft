@@ -47,6 +47,7 @@ Bill of Materials:
 * 1 x Duct Tape
 * 1 x Styrofoam (3ft x 3ft)
 * 1 x Glue Gun
+* 1 x A good quality polythene
 
 Build Instructions
 ==================
@@ -65,5 +66,51 @@ And a breadboard view is also a good idea. It gives the potential user a better 
 ![alt_text][pic4]
   
 [pic4]: https://github.com/preetpancholi/Hovercraft/blob/master/img/Capture.JPG "Schematic"
+
+Information of set-up:
+
+So first of all talking about the boards! The USB Host shield will be mounted on the arduino-UNO. Then you will connect the 5V, ground and other pins to the breadboard with H-bridge on it. Take a look at the schematic and try to make same kind of build. Then comes the hovercraft. You have to make the base first from the styrofoam, keep your things on the styrfoam and draw them down so that you would know how much space it is required. I will give a picture of it:
+
+![alt text][pic5]
+[pic5]:https://github.com/preetpancholi/Hovercraft/blob/master/img/Styrofoam.JPGhttps://github.com/preetpancholi/Hovercraft/blob/master/img/Styrofoam.JPG
+
+Then you have to make a panel from styrofoam for the back motor and flaps. There should also be a small panel made up of styrofoam for the motor at the front. I will keep both the panels here:
+
+[alt text][pic6]
+[pic6]:https://github.com/preetpancholi/Hovercraft/blob/master/img/IMG_6988.PNG
+
+[alt text][pic7]
+[pic7]: https://github.com/preetpancholi/Hovercraft/blob/master/img/IMG_6989.PNG
+
+Sorry for bad quality picture! :@
+
+* Then you have to mount the motors onto the panel using the duct tape! The motors which we used were extremely powerful 
+
+[alt text][pic8]
+[pic8]: https://github.com/preetpancholi/Hovercraft/blob/master/img/Motors.JPG
+
+Then the last step make the flaps and attach the servo at the back panel! It helps for the direction of the hovercraft!
+
+Usage
+=====
+This is usually where you tell the user how the device works. Do you just upload the software and flip a switch? What sort of things does this thing do? Are there alternate settings / modes / programs that might be good to mention. This is where you tell the user exactly how the device or program is used. For example: 
+
+* Upload the code given to the arduino. 
+* Attach the batteries and motors to it. 
+* Connect the dongle to the usb host shield and connect it to the controller. 
+* The code is set up to perform following things:
+* If you toggle the joystick pad up the push motor will turn on and if you release it, the motor will turn off.
+* If you press up arrow the second motor will start and the air cushion will start filling up, if you press the down arrow that motor will turn off
+* If you press the right arrow the servo will stay right and if you release it the servo will come to its original position. Same with the left side.
+
+Team
+=====
+The build team consists of: 
+* Preet Pancholi-- I did everything.
+* Gaurav Khanna -- He didn't do anything useful. 
+* Karan Warraich -- She made me food.
+
+Maybe say something about how people can contribute here?
+
 
 

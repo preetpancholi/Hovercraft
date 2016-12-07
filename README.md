@@ -76,17 +76,17 @@ So first of all talking about the boards! The USB Host shield will be mounted on
 
 Then you have to make a panel from styrofoam for the back motor and flaps. There should also be a small panel made up of styrofoam for the motor at the front. I will keep both the panels here:
 
-[alt text][pic6]
+![alt text][pic6]
 [pic6]:https://github.com/preetpancholi/Hovercraft/blob/master/img/IMG_6988.PNG
 
-[alt text][pic7]
+![alt text][pic7]
 [pic7]: https://github.com/preetpancholi/Hovercraft/blob/master/img/IMG_6989.PNG
 
 Sorry for bad quality picture! :@
 
 * Then you have to mount the motors onto the panel using the duct tape! The motors which we used were extremely powerful 
 
-[alt text][pic8]
+![alt text][pic8]
 [pic8]: https://github.com/preetpancholi/Hovercraft/blob/master/img/Motors.JPG
 
 Then the last step make the flaps and attach the servo at the back panel! It helps for the direction of the hovercraft!

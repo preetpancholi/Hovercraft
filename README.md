@@ -47,6 +47,7 @@ Bill of Materials:
 * 1 x Duct Tape
 * 1 x Styrofoam (3ft x 3ft)
 * 1 x Glue Gun
+
 Build Instructions
 ==================
 

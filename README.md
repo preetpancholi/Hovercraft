@@ -106,11 +106,15 @@ This is usually where you tell the user how the device works. Do you just upload
 Team
 =====
 The build team consists of: 
-* Preet Pancholi-- I did everything.
-* Gaurav Khanna -- He didn't do anything useful. 
-* Karan Warraich -- She made me food.
+* Preet Pancholi-- I did codings, github repo, video editing etc. Providing the space for our laboratory :p
+* Gaurav Khanna -- Designing, presentation oragnization and write-ups. He helped in financing xD 
+* Karan Warraich -- Electronic expert(kind of), helped in coding and DEMOTIVATOR.
+* Anmol Singh -- Disguised! Undercover :|
 
-Maybe say something about how people can contribute here?
+Credits
+=======
+* Thanks to our instructor Trevor for helping us with the project and providing us with H-bridge!
+* YOUTUBE and INSTRUCTIBLES
 
 
 

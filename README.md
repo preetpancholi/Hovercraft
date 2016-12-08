@@ -97,7 +97,7 @@ Then the last step make the flaps and attach the servo at the back panel! It hel
 
 Usage
 =====
-This is usually where you tell the user how the device works. Do you just upload the software and flip a switch? What sort of things does this thing do? Are there alternate settings / modes / programs that might be good to mention. This is where you tell the user exactly how the device or program is used. For example: 
+This is where you will find out how the hovercraft and the remote actually works! You can connect it to either external power or to laptop to run the code. If you are connecting it to external power supply make sure to upload the code to the arduino first. The process is as follows: 
 
 * Upload the code given to the arduino. 
 * Attach the batteries and motors to it. 
@@ -110,7 +110,7 @@ This is usually where you tell the user how the device works. Do you just upload
 Team
 =====
 The build team consists of: 
-* Preet Pancholi-- I did codings, github repo, video editing etc. Providing the space for our so called laboratory :p
+* Preet Pancholi-- I did codings, github repo, video editing etc.(Everything xD) Providing the space for our so called laboratory :p
 * Gaurav Khanna -- Designing, presentation oragnization and write-ups. He helped in financing xD 
 * Karan Warraich -- Electronic expert(kind of), helped in coding and DEMOTIVATOR in a good way.
 * Anmol Singh -- Disguised! Undercover! :|

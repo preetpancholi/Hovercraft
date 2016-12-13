@@ -113,7 +113,7 @@ The build team consists of:
 * Preet Pancholi-- I did codings, github repo, video editing etc.(Everything xD) Providing the space for our so called laboratory :p
 * Gaurav Khanna -- Designing, presentation oragnization and write-ups. He helped in financing xD 
 * Karan Warraich -- Electronic expert(kind of), helped in coding and DEMOTIVATOR in a good way.
-* Anmol Singh -- Disguised! Undercover! :|
+* Anmol Singh -- Disguised! Undercover! Helped in everything:|
 
 Credits
 =======

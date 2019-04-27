@@ -6,6 +6,7 @@ Our group had a common interest in making something remote-controlled. But as rc
 The hovercraft looks like this when it was completed: <br/>
 <br/>
 ![alt text][pic1]
+
 [pic1]:https://github.com/preetpancholi/Hovercraft/blob/master/img/Everything%20final.PNG "Logo Title Text 2"
 Repository Contents
 ============
@@ -74,16 +75,19 @@ Information of set-up:
 So first of all talking about the boards! The USB Host shield will be mounted on the arduino-UNO. Then you will connect the 5V, ground and other pins to the breadboard with H-bridge on it. Take a look at the schematic and try to make same kind of build. Then comes the hovercraft. You have to make the base first from the styrofoam, keep your things on the styrfoam and draw them down so that you would know how much space it is required. I will give a picture of it:
 
 ![alt text][pic5]
+
 [pic5]: https://github.com/preetpancholi/Hovercraft/blob/master/img/Styrofoam.JPG
 
 Then you have to make a panel from styrofoam for the back motor and flaps. There should also be a small panel made up of styrofoam for the motor at the front. I will keep both the panels here:
 
 ![alt text][pic6]
+
 [pic6]:https://github.com/preetpancholi/Hovercraft/blob/master/img/IMG_6988.PNG
 
 Front Panel: 
 
 ![alt text][pic7]
+
 [pic7]: https://github.com/preetpancholi/Hovercraft/blob/master/img/IMG_6989.PNG
 
 Sorry for bad quality picture! :@

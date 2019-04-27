@@ -95,6 +95,7 @@ Sorry for bad quality picture! :@
 * Then you have to mount the motors onto the panel using the duct tape! The motors which we used were extremely powerful 
 
 ![alt text][pic8]
+
 [pic8]: https://github.com/preetpancholi/Hovercraft/blob/master/img/Motors.JPG
 
 Then the last step make the flaps and attach the servo at the back panel! It helps for the direction of the hovercraft!
